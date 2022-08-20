@@ -8,7 +8,7 @@
   },
   "repository": "git@github.com:01Fedda/shmn-insight.git",
   "contributors": [
-	{
+    {
       "name": "Matias Alejo Garcia",
       "email": "ematiu@gmail.com"
     },
@@ -43,7 +43,7 @@
     "blockchain",
     "blockexplorer",
     "stronghands",
-	"shmn",
+    "shmn",
     "bitcore",
     "front-end"
   ],
